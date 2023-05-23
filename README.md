@@ -21,7 +21,7 @@ To run the Calculator GUI, make sure you have the following installed:
 
 1. Clone the repository or download the [calculator.py](calculator.py) file.
 
-2. Open a terminal or command prompt and navigate to the directory where the `calculator_gui.py` file is located.
+2. Open a terminal or command prompt and navigate to the directory where the `calculator.py` file is located.
 
 3. Run the following command to start the Calculator GUI:
 
@@ -38,7 +38,7 @@ The result will be displayed in the display area.
 ![](Calculator.jpg)
 
 ## Customization
-If you want to customize the GUI, you can modify the code in the calculator_gui.py file. 
+If you want to customize the GUI, you can modify the code in the calculator.py file. 
 You can change the colors, fonts, button sizes, and other properties to match your preferences or application requirements.
 
 ## Dependencies
